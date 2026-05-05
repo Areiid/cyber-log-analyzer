@@ -1,0 +1,1 @@
+python cli.py sample_logs.txt
